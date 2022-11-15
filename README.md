@@ -12,8 +12,6 @@ Using autoencoder, we are trying to remove the noise added in the encoder part a
 
 ![image](https://user-images.githubusercontent.com/75235167/201951621-6f4c88c4-6a5b-4898-a012-63505df6bb51.png)
 
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 
 ### Step 1:
